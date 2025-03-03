@@ -4,8 +4,11 @@ Stalk your fellows and make insightful connections
 
 ---
 
+**Documentation in progress**
+
+---
 ### **API documentation**  
-All the APIs endpoints and documentation can be found in the [Research Stalker Collection](https://www.postman.com/gessi-fib-upc/gessi-nlp4se)
+All the APIs endpoints and documentation can be found in the [Research Stalker Collection](https://www.postman.com/)
 
 ---
 
