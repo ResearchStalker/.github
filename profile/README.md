@@ -1,4 +1,4 @@
-# **Research Stalker**  
+# **LinkedScholar**  
 
 Stalk your fellows and make insightful connections
 
