@@ -1,4 +1,4 @@
-# 🚀 LinkedScholar
+# LinkedScholar
 
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
 [![Alpha Release](https://img.shields.io/badge/Release-Alpha-orange.svg)](https://github.com/LinkedScholar/LinkedScholar/releases/tag/alpha)
