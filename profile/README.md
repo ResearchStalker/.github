@@ -1,7 +1,7 @@
 # LinkedScholar
 
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
-[![Alpha Release](https://img.shields.io/badge/Release-Alpha-orange.svg)](https://github.com/LinkedScholar/LinkedScholar/releases/tag/alpha)
+[![Alpha Release](https://img.shields.io/badge/Release-v0.8.0-alpha-orange.svg)](https://github.com/LinkedScholar/LinkedScholar-UI/releases/tag/v0.8.0-alpha)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/201562214?" alt="LinkedScholar Logo" width="200">
@@ -62,7 +62,7 @@ Visit our [website](https://linkedscholar.io) to explore LinkedScholar!
 
 ## Development Roadmap
 
-* **April 2025 - Alpha Release (α)**
+* **April 2025 - Alpha Release (v0.8.0-alpha)**
     * Initial release with 3M authors & 7M papers.
 * **July 2025 - Beta Release (β)**
     * Expanding to 10M authors & 200M papers.
