@@ -4,7 +4,7 @@
 [![Alpha Release](https://img.shields.io/badge/Release-Alpha-orange.svg)](https://github.com/LinkedScholar/LinkedScholar/releases/tag/alpha)
 
 <p align="center">
-  <img src="docs/images/linkedscholar-logo.png" alt="LinkedScholar Logo" width="200">
+  <img src="https://avatars.githubusercontent.com/u/201562214?s=200&v=4" alt="LinkedScholar Logo" width="200">
 </p>
 
 **Discover and analyze researcher networks with unprecedented ease!**
