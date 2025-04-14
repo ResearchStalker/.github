@@ -11,7 +11,21 @@
 
 ---
 
-LinkedScholar is a powerful research tool designed to **visualize and explore academic collaboration networks**.  We empower academics, students, and research institutions to uncover hidden connections between researchers and their impactful work.
+**Table of Contents**
+
+* [Key Features](#key-features)
+* [Getting Started](#getting-started)
+    * [Local Installation (for developers)](#local-installation-for-developers)
+* [Development Roadmap](#development-roadmap)
+* [Contribute](#contribute)
+* [Ideas & Suggestions](#ideas--suggestions)
+* [Support LinkedScholar](#support-linkedscholar)
+* [Other Ways to Contribute](#other-ways-to-contribute)
+* [Our Sponsors](#our-sponsors)
+* [License](#license)
+* [Contact](#contact)
+
+---
 
 ## Key Features
 
@@ -20,11 +34,13 @@ LinkedScholar is a powerful research tool designed to **visualize and explore ac
 * **Intelligent Connection Finder:** Effortlessly map paths between researchers, institutions, and disciplines.
 * **Advanced Filtering & Search:** Refine your search with powerful filters for institutions, research areas, and time periods.
 
-## 🏁 Getting Started
+---
+
+## Getting Started
 
 Visit our [website](https://linkedscholar.io) to explore LinkedScholar!
 
-### 💻 Local Installation (for developers)
+### Local Installation (for developers)
 
 1.  **Clone the repository:**
     ```bash
@@ -44,31 +60,31 @@ Visit our [website](https://linkedscholar.io) to explore LinkedScholar!
     npm start
     ```
 
-## 🗺️ Development Roadmap
+## Development Roadmap
 
 * **April 2025 - Alpha Release (α)**
     * Initial release with 3M authors & 7M papers.
 * **July 2025 - Beta Release (β)**
     * Expanding to 10M authors & 200M papers.
 
-## 🤝 Contribute
+## Contribute
 
-We welcome your contributions!  See our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome your contributions! See our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 1.  Fork the repository.
 2.  Create a feature branch.
 3.  Make your changes.
 4.  Submit a pull request!
 
-## 💡 Ideas & Suggestions
+## Ideas & Suggestions
 
-We're eager to hear your feedback! [Contact Us](mailto:your-email@example.com).
+We're eager to hear your feedback! [Contact Us](mailto:contact@linkedscholar.io).
 
-## 💖 Support LinkedScholar
+## Support LinkedScholar
 
 Help us build the future of academic collaboration! Your support enables us to grow, enhance, and maintain LinkedScholar as a free resource.
 
-[Become a Sponsor](https://linkedscholar.org/sponsor)
+[Become a Sponsor](https://linkedscholar.io/sponsor)
 
 ## Other Ways to Contribute
 
@@ -82,16 +98,16 @@ We're grateful for the support of:
 
 * [Eudita](https://eudita.es/)
 
-## 📜 License
+## License
 
 LinkedScholar is released under the [GPL License](LICENSE).
 
-## 🔗 Contact
+## Contact
 
 * **Website:** [linkedscholar.io](https://linkedscholar.io)
-* **Email:** [your-email@example.com](mailto:contact@linkedscholar.io)
-* **Help & FAQs:** [linkedscholar.org/help](https://linkedscholar.io/help)
-* **Privacy:** [linkedscholar.org/privacy](https://linkedscholar.io/privacy)
-* **Terms:** [linkedscholar.org/terms](https://linkedscholar.io/terms)
-* **API:** [linkedscholar.org/api](https://linkedscholar.io/api)
-* **Contribute:** [linkedscholar.org/contribute](https://linkedscholar.io/contribute)
+* **Email:** [contact@linkedscholar.io](mailto:contact@linkedscholar.io)
+* **Help & FAQs:** [linkedscholar.io/help](https://linkedscholar.io/help)
+* **Privacy:** [linkedscholar.io/privacy](https://linkedscholar.io/privacy)
+* **Terms:** [linkedscholar.io/terms](https://linkedscholar.io/terms)
+* **API:** [linkedscholar.io/api](https://linkedscholar.io/api)
+* **Contribute:** [linkedscholar.io/contribute](https://linkedscholar.io/contribute)
